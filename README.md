@@ -1,2 +1,2 @@
 # dio-desafio-poo
-This project was created while I participated in an event at Digital Innovation One called Orange Tech + | BackEnd.
+Este projeto foi criado enquanto eu participava de um evento na Digital Innovation One chamado Orange Tech + | BackEnd.
